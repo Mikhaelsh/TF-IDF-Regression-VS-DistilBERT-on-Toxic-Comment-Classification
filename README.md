@@ -3,6 +3,8 @@
 This project focuses on **multi-label toxic comment classification** using Natural Language Processing (NLP) techniques.  
 The goal is to identify different types of toxicity in online comments.
 
+Demonstration Video: https://drive.google.com/drive/folders/1Ncn4iP5JZhvFFz_da6LP6gjcpaNABTL3?usp=sharing
+
 The project implements and compares:
 - A **baseline machine learning model** using TF-IDF + Logistic Regression
 - A **transformer-based model** using DistilBERT
